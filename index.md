@@ -6,7 +6,7 @@ layout: default
 📧 **Email**: hendryc@whitman.edu |  📍 **Location**: Washington
 
 ---
-##Google Location Data
+**Google Location Data**
 {% include_relative fig.html %}
 
 ## 🎓 **Education**  
