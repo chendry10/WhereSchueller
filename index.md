@@ -6,6 +6,6 @@ layout: default
 📧 **Email**: hendryc@whitman.edu |  📍 **Location**: Washington
 
 ---
-**Google Location Data**
+**Where's Schueller?**
 {% include_relative fig.html %}
 
