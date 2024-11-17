@@ -10,5 +10,5 @@ layout: default
 {% include_relative fig.html %}
 
 ---
-**Project Ideas:** <br>
+**Project Ideas:**<br>
 CO2 Emissions Data: https://www.kaggle.com/datasets/ravindrasinghrana/carbon-co2-emissions
