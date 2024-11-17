@@ -3,7 +3,7 @@ layout: default
 ---
 
 # **CAMERON HENDRY**  
-📧 **Email**: hendryc@whitman.edu |  📍 **Location**: Washington
+📍 **Location**: Washington
 
 ---
 **Where's Schueller?**
