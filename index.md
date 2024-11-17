@@ -9,3 +9,6 @@ layout: default
 **Where's Schueller?**
 {% include_relative fig.html %}
 
+---
+**Project Ideas**
+CO2 Emissions Data: https://www.kaggle.com/datasets/ravindrasinghrana/carbon-co2-emissions
