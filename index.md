@@ -22,3 +22,6 @@ It seems like the world has been trending more towards countries switiching to d
 
 [Free Visa:](https://www.kaggle.com/datasets/bhadramohit/visa-free-countries-dataset2024)  
 I was thinking I could see if there is any correlation between a country in this dataset and a country in the democracy dataset over time. This might tell us if democracies are generally easier to get into than contries that do not have democracies. 
+
+[Climate Change:](https://www.kaggle.com/code/sevgisarac/climate-change)  
+I wanted to plot the climate change data for one country against the C02 emissions from that same country over time to see if there is any correlation. 
