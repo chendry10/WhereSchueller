@@ -20,3 +20,5 @@ For this dataset I could look at the stock prices of two tech companies like app
 [Democracy Index:](https://www.kaggle.com/datasets/shreyasur965/democracy-index)  
 It seems like the world has been trending more towards countries switiching to democracy, but I would like to test this theory and see if the world has become more democratic over time or not. I could also compare democracy ratings across countries. 
 
+[Free Visa:](https://www.kaggle.com/datasets/bhadramohit/visa-free-countries-dataset2024)
+I was thinking I could see if there is any correlation between a country in this dataset and a country in the democracy dataset over time. This might tell us if democracies are generally easier to get into than contries that do not have democracies. 
