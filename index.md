@@ -32,4 +32,5 @@ I was thinking I could see if there is any correlation between a country in this
 [Climate Change:](https://www.kaggle.com/code/sevgisarac/climate-change)  
 I wanted to plot the climate change data for one country against the C02 emissions from that same country over time to see if there is any correlation. 
 
-[Climate Temperature Project](https://chendry10.github.io/ClimateTemperature/)
+[Climate Temperature Project](https://chendry10.github.io/ClimateTemperature/)  
+In this project, we explore two datasets from the United States. One that has CO2 emissions data and the other has temperature data. We merge these two datasets into a dataframe and explore their relationship.
